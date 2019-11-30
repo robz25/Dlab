@@ -1,6 +1,6 @@
 # Dlab
 Trophies code  
-Programmed using Arduino IDE 
+Programmed using Arduino IDE  
 Hardware: Adafruit Feather Huzzah with ESP8266  
 Dependencies:
 Adafruit Neopixel: https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation  
